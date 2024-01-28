@@ -1,0 +1,36 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "moisesIntent",
+          "samples": [
+            "remover baixo",
+            "remover voz",
+            "remover guitarra",
+            "remover bateria"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "teste moises"
+    }
+  }
+}
